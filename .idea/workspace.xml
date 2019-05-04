@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7fb661a0-ae95-47d0-86a2-105e15d019d5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/main/rule.py" beforeDir="false" afterPath="$PROJECT_DIR$/main/rule.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/test.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,8 +25,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test/test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+            <state relative-caret-position="444">
+              <caret line="59" column="17" selection-start-line="59" selection-start-column="17" selection-end-line="59" selection-end-column="17" />
               <folding>
                 <element signature="e#1#16#0" expanded="true" />
               </folding>
@@ -36,8 +37,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main/rule.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="187">
+              <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -61,6 +62,7 @@
         <option value="$PROJECT_DIR$/rule.py" />
         <option value="$PROJECT_DIR$/__init__.py" />
         <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/main/rule.py" />
         <option value="$PROJECT_DIR$/test/test.py" />
       </list>
     </option>
@@ -204,28 +206,34 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_for_test_Test - 2019.05.03 at 19h 49m 42s.xml">
+    <history-entry file="Unittests_for_test_Test - 2019.05.03 at 20h 24m 42s.xml">
       <configuration name="Unittests for test.Test" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_test_Test - 2019.05.03 at 19h 50m 00s.xml">
+    <history-entry file="Unittests_for_test_Test - 2019.05.03 at 20h 33m 55s.xml">
       <configuration name="Unittests for test.Test" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_test_Test - 2019.05.03 at 19h 52m 57s.xml">
+    <history-entry file="Unittests_for_test_Test - 2019.05.03 at 20h 34m 57s.xml">
       <configuration name="Unittests for test.Test" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_test_Test - 2019.05.03 at 19h 54m 01s.xml">
+    <history-entry file="Unittests_for_test_Test - 2019.05.03 at 20h 35m 49s.xml">
       <configuration name="Unittests for test.Test" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_test_Test - 2019.05.03 at 19h 54m 53s.xml">
+    <history-entry file="Unittests_for_test_Test - 2019.05.03 at 20h 38m 26s.xml">
       <configuration name="Unittests for test.Test" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_test_Test - 2019.05.03 at 20h 18m 00s.xml">
+    <history-entry file="Unittests_for_test_Test - 2019.05.03 at 20h 38m 54s.xml">
       <configuration name="Unittests for test.Test" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_test_Test - 2019.05.03 at 20h 18m 55s.xml">
+    <history-entry file="Unittests_for_test_Test - 2019.05.03 at 20h 39m 07s.xml">
       <configuration name="Unittests for test.Test" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_test_Test - 2019.05.03 at 20h 22m 23s.xml">
+    <history-entry file="Unittests_for_test_Test - 2019.05.03 at 20h 39m 15s.xml">
+      <configuration name="Unittests for test.Test" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_Test - 2019.05.03 at 20h 39m 25s.xml">
+      <configuration name="Unittests for test.Test" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_Test - 2019.05.03 at 20h 40m 01s.xml">
       <configuration name="Unittests for test.Test" configurationId="tests" />
     </history-entry>
   </component>
@@ -251,7 +259,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" weight="0.3289689" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.22913256" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.6841244" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -274,15 +282,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main/rule.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="187">
+          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+        <state relative-caret-position="444">
+          <caret line="59" column="17" selection-start-line="59" selection-start-column="17" selection-end-line="59" selection-end-column="17" />
           <folding>
             <element signature="e#1#16#0" expanded="true" />
           </folding>

@@ -9,7 +9,7 @@ def evaluate(mcs):
         if mcs[1] <= mcs[2]:
             return [1, 0, 0]
         else:
-            [0, 1, 0]
+            return [0, 1, 0]
     else:
         if mcs[0] < mcs[2]:
             return [0, 0, 1]
