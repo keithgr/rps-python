@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7fb661a0-ae95-47d0-86a2-105e15d019d5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/main/rule.py" beforeDir="false" afterPath="$PROJECT_DIR$/main/rule.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/test.py" afterDir="false" />
-    </list>
+    <list default="true" id="7fb661a0-ae95-47d0-86a2-105e15d019d5" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +22,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test/test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="444">
+            <state relative-caret-position="917">
               <caret line="59" column="17" selection-start-line="59" selection-start-column="17" selection-end-line="59" selection-end-column="17" />
               <folding>
                 <element signature="e#1#16#0" expanded="true" />
@@ -206,9 +203,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_for_test_Test - 2019.05.03 at 20h 24m 42s.xml">
-      <configuration name="Unittests for test.Test" configurationId="tests" />
-    </history-entry>
     <history-entry file="Unittests_for_test_Test - 2019.05.03 at 20h 33m 55s.xml">
       <configuration name="Unittests for test.Test" configurationId="tests" />
     </history-entry>
@@ -234,6 +228,9 @@
       <configuration name="Unittests for test.Test" configurationId="tests" />
     </history-entry>
     <history-entry file="Unittests_for_test_Test - 2019.05.03 at 20h 40m 01s.xml">
+      <configuration name="Unittests for test.Test" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_Test - 2019.05.03 at 20h 47m 13s.xml">
       <configuration name="Unittests for test.Test" configurationId="tests" />
     </history-entry>
   </component>
@@ -289,7 +286,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="444">
+        <state relative-caret-position="917">
           <caret line="59" column="17" selection-start-line="59" selection-start-column="17" selection-end-line="59" selection-end-column="17" />
           <folding>
             <element signature="e#1#16#0" expanded="true" />
