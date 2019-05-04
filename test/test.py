@@ -1,10 +1,11 @@
 
 import unittest
-from ddt import data, unpack
+from ddt import ddt, data, unpack
 from main.rule import evaluate
 
 
 
+@ddt
 class Test(unittest.TestCase):
 
     """
@@ -25,10 +26,8 @@ class Test(unittest.TestCase):
         ([0, 5, 0], [0, 1, 0]),
         ([0, 0, 5], [0, 0, 1])
 
-        
+
     )
     @unpack
     def testRule(self, mcs, result):
         self.assertEqual(evaluate(mcs), result)
-
-
