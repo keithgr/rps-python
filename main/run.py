@@ -33,5 +33,3 @@ for n in range(1, N + 1):
                 for re in range(0, e + 1):
                     for pe in range(0, e - re + 1):
                         se = e - re - pe
-
-
